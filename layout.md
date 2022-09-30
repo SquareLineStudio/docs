@@ -22,14 +22,15 @@ In the Header Menu, you can find menus that are needed for saving, loading and e
 
 ### Export Menu
 
-- **Export C** - Export the project into C files.
-- **Export Python** - Export the project into Python files.
+- **Export UI Files** - Export the project into C files.
+- **Create Template Project** - Export the template project based on the set OBP configurations.
 
 ### Help Menu
 
-- **About** - The current version and licence of the program.
-- **Licence** - You can find licence information of the program here.
-- **Docs** - The documentation of SquareLine Studio.
+- **SquareLine Studio docs** - The documentation of SquareLine Studio.
+- **LVGL website** - Link to the lvgl.io website.
+- **Youtube channel** - Link to channel of SquareLine Studio
+- **EULA** - Link to actual end user license agreement
 
 ## Panels
 

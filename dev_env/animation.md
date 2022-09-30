@@ -14,6 +14,10 @@ Before creating a new animation, you should select a name to it. Then it will be
 
 You can edit the selected animation in this section. You can create, edit or delete animation properties here.
 
+## Animation name
+
+In this section you can rename the selected animation.
+
 ### Select animation
 
 You can choose an animation of yours from a drop-down menu. You can start the selected animation by clicking on the **Play** button on the prefered widget from the Default list. The animation can be deleted by clicking on the **Bin** button. In this case, it will be removed from all widgets it have been added to.
@@ -38,8 +42,17 @@ Properties are attributions of animations. However, not each and every property 
 
 Every animation has four parameters: start and end values, motion time and delay. Here, you can also set the characteristics of the animation.
 
-- **Start Value** - Start value of the animation.
-- **End Value** - End value of the animation.
-- **Delay** - Delay time of the animation in milliseconds.
-- **Time** - Motion time of the animation in milliseconds.
-- **Animation types** - In IA properties you can choose from 5 animation characteristics.
+Every animation has four parameters: start and end values, motion time and delay. Here, you can also set the characteristics of the animation.
+
+- **Start Value** - Start value of the animation.
+- **End Value** - End value of the animation.
+- **Relative checkbox** - If checked Start and End value will be interpreted relative to the current value
+- **Delay** - Delay time of the animation (milliseconds).
+- **Time** - Motion time of the animation (milliseconds).
+- **Instant checkbox** - If unchecked the Start value will be applied only after "Delay". 
+- **Playback delay** - Delay before playing back the animation (milliseconds). 
+- **Playback time** - Time of animation playback  (0 to disable playback).
+- **Loop delay** - Delay before restarting the animation (milliseconds).
+- **Loop count** - Repeat the animation this number of times.
+- **Infinite checkbox** - Repeat the animation infinitely. 
+- **Animation types** - In properties you can choose from 5 animation characteristics.

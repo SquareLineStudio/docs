@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# SquareLine Studio 1.0.5 Documentation
+# SquareLine Studio 1.1.0 Documentation
 
 Welcome to the official documentation of SquareLine!
 
@@ -25,5 +25,9 @@ Main sections:
 - [**Styles**](https://docs.squareline.io/docs/styles)  - Styles and functions
 
 - [**Events**](https://docs.squareline.io/docs/events)  - Events and actions
+
+- [**Components**](https://docs.squareline.io/docs/components)  - Components
+
+- [**OBP**](https://docs.squareline.io/docs/obp)  - Open Board Platform
 
 - [**Tutorials**](https://docs.squareline.io/docs/tutorials/example)  - Examples to learn the basics 

@@ -7,7 +7,9 @@ Adding events, you can create different interactions to widgets, for instance ch
 At the bottom of the [**Inspector**](https://docs.squareline.io/docs/dev_env/inspector) Panel, you can find the **ADD EVENT** button. Firstly, you should name the event, then choose a trigger to start it.
 
 - **Event name** - The name of the event
+
 - **Event Trigger** - The interaction of event start
+  
   - **Pressed** - An object has been pressed
   - **Clicked** - An object was pressed for a short period of time, then released. Not called if scrolled
   - **Long pressed** - An object has been pressed for a longer period of time
@@ -21,6 +23,10 @@ At the bottom of the [**Inspector**](https://docs.squareline.io/docs/dev_env/ins
   - **Screen unloaded** - A screen was unloaded, called when all animations are finished
   - **Screen load start** - A screen load started, fired when the screen change delay is expired
   - **Screen unload start** - A screen unload started, fired immediately when lv_scr_load/lv_scr_load_anim is called
+  
+  > - **Checked** - A widget chacked állapotba kerül 
+  > - **Unchecked** - A widget unchecked állapotba kerül
+  > - **Gesture** - A kiváalszott obiektumon a meghatározott irányú gesztus érzékelése
 
 ## Add Action
 

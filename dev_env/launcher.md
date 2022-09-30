@@ -10,6 +10,16 @@ Starting the program, Launcher screen appears. You can load your recent projects
 
 Recently opened projects are enlisted. Having opened or saved a project, it automatically goes to the front. Selected projects can be loaded by clicking on the **OPEN SELECTED PROJECT** button.
 
+## Create
+
+At the top menu line you can see the board categories (a.k.a. groups).  In the list below it you can select a board and adjust its settings in the bottom right corner. 
+
+By clicking the **CREATE** button the project will be created. 
+
+Due to the - [**Open Board Platform**](https://docs.squareline.io/docs/obp-description) system new boards can be easily added to SquareLine Studio. Learn more about it here.
+
+
+
 ### Import Project
 
 At the end of the list there is an Import Project button to load the projects that are not enlisted among recent projects.

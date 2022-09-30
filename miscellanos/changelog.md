@@ -2,7 +2,44 @@
 title: Changelog
 ---
 
-# Changelog
+## Version 1.1.0
+
+Release date: 01 Sept 2022
+
+### Bugfixes
+
+- Fix the "Copy" feature in the Hierarchy panel
+- Fix the "Eye" (hide) feature in the Hierarchy panel
+- Fix non clickable elements on the right side of the screen
+- Fix saving the animation parameters when they have been changed.
+- Fix incorrectly exported blend mode
+- If an image has no alpha channel or all alpha values are 0xFF, generate `LV_IMG_CF_TURE_COLOR` images. If there is alpha channel export with `LV_IMG_CF_TRUE_COLOR_ALPHA` format.
+- Make `SET_TEXT_VALUE_WHEN_CHECKED` area multiline and fix `text off`
+- Do not allow setting the height of the Text area in one-line mode
+- Fix adding assets on MacOS
+- Improve peroformace
+- Fix export error for drop down list
+- Fix export error for slider increment event
+- Fix image rotation export error.
+- Fix hiding widgets with the eye icon in the hierarchy.
+- Fix issue with sing the lock icon
+- Fix exporting C code on macOS M1
+- Fix exporting the pivot for images
+- Save the test object of animations.
+
+### New features
+
+- Error and warning messages are added to the console window
+- Add "Force export all images" to project settings to export not only the used images but all images from the assets folder
+- Add Espressive boards: ESP-BOX, ESP Wrover Kit
+- Check if an image has or hasn't alpha channel and choose the color format accordingly
+- Add Open Board Platform
+- Add Components
+- Auto save
+- Add gesture events
+- Add an info popup when revoking the license
+- Add new animation features
+- Add "Check for update at start" checkbox in preferences
 
 ## Version 1.0.5
 
