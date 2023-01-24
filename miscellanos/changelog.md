@@ -2,6 +2,65 @@
 title: Changelog
 ---
 
+## Version 1.2.0
+
+Release date: 11 Jan 2023
+
+### Bugfixes
+
+- Fix changing the order of widgets on component editing
+- Fix renaming components
+- Fix the disappearing images on component generation
+- Fix detaching components
+- Fix the generated code in SET_TEXT_VALUE_FROM_SLIDER
+- Make the launch screen scrollable on small resolutions too
+- Fix crating component from the hierachy
+- Fix file browser issue with Wayland
+- Fix the "hidden" feature
+- Fix saving the project settings window
+- Fix auto scrolling to the selected widget in the hierarchy panel
+
+### New features
+
+- Portable license option
+- Flex layout
+- Chart widget
+- “lvgl include path” setting in the Project settings
+- Scrollbar redesign
+- On Zoom In focus on the active screen
+- Hotkeys:
+  - "a" center the active screen
+  - "f" center the selected widget
+- Font manager keep the settings from the last generation
+- Allow renaming the generated fonts
+- Add Keyboard set text area action
+- Get board dynamically, on demand from GitHub 
+- Add "None" option to Screen change types
+- Add padding style option to screen and button widgets
+- Add option to whether to add or not the screen name to the new widget 
+- Add support for LVGL 8.3.4
+- Make it possible to style the list of the drop down widget.
+
+## Version 1.1.1
+
+Release date: 05 Oct 2022
+
+### Bugfixes
+
+- Many fixes for Undo
+- Fix memory leak
+- Fix renaming the children of components
+- Fix moving widgets with large zoom
+- Fix Calendar's C export
+
+### New features
+
+- LVGL version selector
+- In Preference you you can configure the length of the History
+- You can run more SLS instances simultaneously 
+- Automatically the Screen name in the default name of the new widgets 
+- In Project settings you can configure how to export ui_event file: ui_event.c,  ui_event.cpp or none  
+
 ## Version 1.1.0
 
 Release date: 01 Sept 2022

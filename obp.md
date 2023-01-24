@@ -6,7 +6,7 @@ title: Open Board Platform (OBP)
 
 ## OBP Description
 
-The OBP feature allows you to add for custom boards in SquareLine Studio. The board packages needs to be copied to the **boards** folder of SquareLine Studio. The added boards will be displayed on the Launcher screen in the Create menu.
+The OBP feature allows you to add custom boards to SquareLine Studio. The board packages need to be copied to the **boards** folder of SquareLine Studio. The added boards will be displayed on the Launcher screen in the Create menu.
 
 **OBP file structure:**
 
@@ -68,7 +68,7 @@ A JSON file containing the description and parameters of the board. For example
     "color_depth": "16",
     "lvgl_export_path": "packages/LVGL-latest/",
     "lvgl_include_path": "lvgl.h",
-    "supported_lvgl_version": "8.1",
+    "supported_lvgl_version": "8.2.0, 8.3.2",
     "pattern_match_files": "applications/lvgl/lv_conf.h",
     "language":"C",
     "ui_export_path":"./applications/lvgl/squareline/ui/",

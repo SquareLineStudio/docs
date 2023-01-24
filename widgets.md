@@ -1,10 +1,8 @@
 ---
-title: Widgets
+title: Widget types
 ---
 
-# Widget panel
-
-You can find widgets, which are the basic elements of UI, on the **Widget Panel**. Every widget has its own preference. You can add custom styles to widget components and you are allowed to configure them in different states.
+# Widget types
 
 ## Screen
 
@@ -202,8 +200,10 @@ The Drop-down list is added to the default group (if it is set). Besides the Dro
 ***Style parts***
 
 - **Main**
-- **List**
-- **Selected**
+- **Indicator**
+- **List main**
+- **List scrollbar**
+- **List selected**
 
 <iframe width="324" height="244" src="https://docs.lvgl.io/8.1/_static/built_lv_examples?example=lv_example_dropdown_2&w=320&h=240" ></iframe>
 
@@ -333,21 +333,57 @@ The bar widget has a background and an indicator on it. The width of the indicat
 
 ### Chart
 
-Charts are a basic objects to visualize data points. Currently *Line* charts (connect points with lines and/or draw points on them) and *Bar* charts are supported. Chart Widgets have limited functions in the editor.
+Charts are a basic objects to visualize data points. It possible to use Line, Bar ans Scatter charts.
 
-Charts can have:
+***Parameters of Bar Widget***
 
-- division lines
-- 2 y axis
-- axis ticks and texts on ticks
-- cursors
-- scrolling and zooming
+- **Chart**
+  - **Chart type** - Type of the chart. Line, Bar o Scatter.
+  - **Number of points** - Number of point in each data series.
+  - **Division line count X** - Number of horizontal division lines
+  - **Division line count Y** - Number of vertical division lines
+  - **Zoom X** - Horizontal zoom.
+  - **Zoom Y** - Vertical zoom.
+- **X axis** 
+  - **Major tick length** - Length of major ticks
+  - **Major tick count** - Number of major ticks
+  - **Minor tick lenght** - Length of minor ticks
+  - **Minor tick count** - Number of minor ticks
+  - **Label on X axis** - Show/Hide labels on the  axis.
+  - **Font size on axis** - Label distance from axis.
+
+The chart supports two Y axis:
+
+- Primary: on the left side
+
+- Secondary: on the right side
+
+- **Primary and axis**
+  
+  - **Primary Y range min** - The smallest value of the axis.
+  - **Primary Y range man** - The largest value of the axis.
+  - **Major tick count** - Number of major ticks
+  - **Minor tick lenght** - Length of minor ticks
+  - **Minor tick count** - Number of minor ticks
+  - **Label on Primary Y axis** - Show/Hide labels on the  axis.
+  - **Font size Primary Y axis** - Label distance from axis.
+
+- **Primary and axis** - Same as Primary Y axis
+
+- **Chart data**  Click `ADD SERIES` to add new data series to the chart.
+  
+  - **Data** - You can set the color and the to which Y axis the series should be attached to. The values added to the **Data** field will be shown on the series.
 
 ***Style parts***
 
 - **Main**
+- **Scrolbar**
 - **Items**
+
+> In case of Bar chart the spacing between the bars can be adjusted with Items/Paddings/Pad Column parameter.
+
 - **Indicator**
+- **Ticks**
 
 <iframe width="324" height="244" src="https://docs.lvgl.io/8.1/_static/built_lv_examples?example=lv_example_chart_3&w=320&h=240" ></iframe>
 

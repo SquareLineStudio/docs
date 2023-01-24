@@ -1,5 +1,5 @@
 ---
-title: Layout
+title: Editor layout
 ---
 
 # How to use the SquareLine Studio layout?
@@ -43,7 +43,7 @@ Panels are basic elements.
 - [**Hierachy**](https://docs.squareline.io/docs/dev_env/hierarchy)  - Select and place elements that are added to the screen.
 - [**History**](https://docs.squareline.io/docs/dev_env/history) - The program saves your actions. It can record up to 200 actions.
 - [**Inspector**](https://docs.squareline.io/docs/dev_env/inspector)  - In the Inspector Panel, you can see the parameters of the selected widget and you can assign events to it.
-- [**Widgets**](https://docs.squareline.io/docs/dev_env/widgets)  - You can place widgets, enlisted here, on the screen.
+- [**Widget**](https://docs.squareline.io/docs/dev_env/widget)  - You can place widgets, enlisted here, on the screen.
 
 ## Editable View
 

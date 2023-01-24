@@ -9,7 +9,7 @@
   - CPU: Intel or AMD processor with 64-bit support, 1.5 GHz or faster processor
   - RAM: 4 GB
   - HDD: 2 GB of storage space
-  - GPU: DirectX 11 or OpenGL 2 support
+  - GPU: DirectX 11 or OpenGL 3.2 support
 
 - **Operating Systems :**
   
@@ -36,7 +36,7 @@ Having installed the program, you should launch SquareLine_Studio.exe file and y
   - CPU: Intel or AMD processor with 64-bit support, 1.5 GHz or faster processor
   - RAM: 4 GB
   - HDD: 2 GB of storage space
-  - GPU: Vulcan or OpenGL 2 support
+  - GPU: Vulcan or OpenGL 3.2 support
 
 - **Operating Systems :**
   
@@ -63,7 +63,7 @@ After that start SquareLine Studio with SquareLine_Studio.x86_64 or from the app
   - CPU: Intel 64-bit or ARM support 1.5 GHz or faster processor
     - RAM: 4 GB
   - HDD: 2 GB of storage space
-  - GPU: Metal or OpenGL 2 support
+  - GPU: Metal or OpenGL 3.2 support
 
 - **Operating Systems :**
   

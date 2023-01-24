@@ -16,6 +16,20 @@ You should name the widget.
 
 > There cannot be a number, underscore or a special character at the beginning of the name. Having exported the code, you can find the widget by that name.
 
+## Layout
+
+You can use a layout to automatically arrange the children of a widget. If the layout is enabled the children's X and Y value can't be adjusted manually, unless the `IGNORE_LAYOUT` or the `FLOATING` flag is enabled on the children.  
+
+- **Layout type** - Select he layout you want to use
+- **Flex flow** - Row or column layout.
+- **Wrap** - Enable/Disable whether to start a new row/column if the children don't fit.
+- **Reverse** - Whter the start with first or last children.
+- **Main dir. align** - Alignment in the direction of the flow
+- **Cross dir. align** - Alignment in the direction perpendicular to the flow 
+- **Track align** -  The alignment of the tracks
+
+The Pad Row and Column values sets the distance between the children in the respective directions.
+
 ### Transform
 
 You should define the position and size of every widget and its alignment to its own parent. 
@@ -27,6 +41,8 @@ You should define the position and size of every widget and its alignment to its
 - **Width, Height** - The width and height of the widget.
   
   > This value can be added in pixels, percents, or the content can define the parameters. Percent value will refer to the size of the parent widget, the content will copy the maximum size of the children widgets.
+  > 
+  > Ha a szülő Flax layoutot használ, akkor a szélesség és magasság értéket meg lehet adni **fr** értékben is. Ez azt határota meg, hogy hány egység helyet foglalkjon el a szülőben.
 
 - **Align** - The alignment of the widget to the parent.
 
