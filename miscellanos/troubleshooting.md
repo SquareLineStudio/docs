@@ -17,3 +17,7 @@ If you are using Mac M1 be sure to run SquareLine Studio with Rosetta as describ
 ## Not starting or has high CPU usage on Windows
 
 Try starting SquareLine Studio from command line as `SquareLine_Studio.exe -force-opengl`
+
+## Texts are too small on a high DPI monitor
+
+You can set the UI scale in the File -> Preferences menu.
