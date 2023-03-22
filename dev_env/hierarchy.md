@@ -21,3 +21,7 @@ Icons in front of the enlisted items will show the type of the widget. Next to t
 ## Modify Hierarchy Structure
 
 Long pressing the left mouse button on a List Item, you can move it and reposition it on release. If you move a widget on top of another, the one on the top will be the child.
+
+## Initial actions function
+
+The first element of the hierarchy panel is always a special "Initial actions" element. It can not  be removed or moved. By selecting this element event actions can be created which will run once when the UI is created. It can be used for example to create initial animations.

@@ -80,7 +80,7 @@ You can modify the value of the Slider Widget.
 You can modify the flag state of a widget.
 
 - **Object** - The target object
-- [**Flags**](https://docs.squareline.io/docs/dev_env/inspector/#flags)  - The defined flag to be changed
+- [**Flags**](/docs/dev_env/inspector/#flags)  - The defined flag to be changed
 - **Action** - The action to be used
   - **Add** - Add a flag
   - **Remove** - Remove a flag

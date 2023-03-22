@@ -37,6 +37,7 @@ Properties are attributions of animations. However, not each and every property 
 - **Opacity** - Setting the opacity of the widget. This will change the parent opacity of the widget. In this case, child opacity will change, as well.
 - **Image angle** - Rotating the image widget by any angle.
 - **Image zoom** - Zooming in or out the image widget.
+- **Image frame animation** - Can be used to show images after each other. The name of the images should start with the same file name but should end with a number indicating the index of the image in the sequence. SquareLine automatically recognizes these image sequences and they can be animated like any other property. The Start and End value tells from where to which image to play the animation. 
 
 ### Property parameters
 

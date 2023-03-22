@@ -4,7 +4,7 @@ You don't need anything else to start working but to install the program. If you
 
 ## Launcher
 
-Having started the program after installation, a [**Launcher**](https://docs.squareline.io/docs/dev_env/launcher) screen appears. Here, you can choose to load an existing project, to create a new one or to load an example.
+Having started the program after installation, a [**Launcher**](/docs/dev_env/launcher) screen appears. Here, you can choose to load an existing project, to create a new one or to load an example.
 
 ## Login
 

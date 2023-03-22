@@ -36,14 +36,14 @@ In the Header Menu, you can find menus that are needed for saving, loading and e
 
 Panels are basic elements. 
 
-- [**Animations**](https://docs.squareline.io/docs/dev_env/animation)  - Create and manage animations.
-- [**Assets**](https://docs.squareline.io/docs/dev_env/assetes)  - Images and fonts that can be used in your project.
-- [**Console**](https://docs.squareline.io/docs/dev_env/console)  - Program log and error messages.
-- [**Font Maker**](https://docs.squareline.io/docs/dev_env/fontmanager)  - Create custom fonts.
-- [**Hierachy**](https://docs.squareline.io/docs/dev_env/hierarchy)  - Select and place elements that are added to the screen.
-- [**History**](https://docs.squareline.io/docs/dev_env/history) - The program saves your actions. It can record up to 200 actions.
-- [**Inspector**](https://docs.squareline.io/docs/dev_env/inspector)  - In the Inspector Panel, you can see the parameters of the selected widget and you can assign events to it.
-- [**Widget**](https://docs.squareline.io/docs/dev_env/widget)  - You can place widgets, enlisted here, on the screen.
+- [**Animations**](/docs/dev_env/animation)  - Create and manage animations.
+- [**Assets**](/docs/dev_env/assetes)  - Images and fonts that can be used in your project.
+- [**Console**](/docs/dev_env/console)  - Program log and error messages.
+- [**Font Maker**](/docs/dev_env/fontmanager)  - Create custom fonts.
+- [**Hierachy**](/docs/dev_env/hierarchy)  - Select and place elements that are added to the screen.
+- [**History**](/docs/dev_env/history) - The program saves your actions. It can record up to 200 actions.
+- [**Inspector**](/docs/dev_env/inspector)  - In the Inspector Panel, you can see the parameters of the selected widget and you can assign events to it.
+- [**Widget**](/docs/dev_env/widget)  - You can place widgets, enlisted here, on the screen.
 
 ## Editable View
 

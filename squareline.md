@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# SquareLine Studio 1.2.0 Documentation
+# SquareLine Studio 1.2.2 Documentation
 
 Welcome to the official documentation of SquareLine!
 
-[![](https://docs.squareline.io/img/slbanner.png)](https://docs.squareline.io/img/slbanner.png)
+[![](/img/slbanner.png)](/img/slbanner.png)
 
 ## The design tool for Designers and Developers
 
@@ -16,18 +16,18 @@ Squareline Studio is a multiplatform desiger tool that helps designers and devel
 
 Main sections:
 
-- [**Overview**](https://docs.squareline.io/docs/introduction/overview)  - The overview of the program, changelog
+- [**Overview**](/docs/introduction/overview)  - The overview of the program, changelog
 
-- [**Getting started**](https://docs.squareline.io/docs/introduction/getting_started)  - Basic steps to start working on your project
+- [**Getting started**](/docs/introduction/getting_started)  - Basic steps to start working on your project
 
-- [**Designer Environment**](https://docs.squareline.io/docs/layout)  - Program structure and elements
+- [**Designer Environment**](/docs/layout)  - Program structure and elements
 
-- [**Styles**](https://docs.squareline.io/docs/styles)  - Styles and functions
+- [**Styles**](/docs/styles)  - Styles and functions
 
-- [**Events**](https://docs.squareline.io/docs/events)  - Events and actions
+- [**Events**](/docs/events)  - Events and actions
 
-- [**Components**](https://docs.squareline.io/docs/components)  - Components
+- [**Components**](/docs/components)  - Components
 
-- [**OBP**](https://docs.squareline.io/docs/obp)  - Open Board Platform
+- [**OBP**](/docs/obp)  - Open Board Platform
 
-- [**Tutorials**](https://docs.squareline.io/docs/tutorials/example)  - Examples to learn the basics 
+- [**Tutorials**](/docs/tutorials/example)  - Examples to learn the basics 

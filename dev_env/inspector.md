@@ -42,7 +42,7 @@ You should define the position and size of every widget and its alignment to its
   
   > This value can be added in pixels, percents, or the content can define the parameters. Percent value will refer to the size of the parent widget, the content will copy the maximum size of the children widgets.
   > 
-  > Ha a szülő Flax layoutot használ, akkor a szélesség és magasság értéket meg lehet adni **fr** értékben is. Ez azt határota meg, hogy hány egység helyet foglalkjon el a szülőben.
+  > If the parent has Flex layout the children's width/height can be set in **fr** unit as well. It tells how much space to take proportionally from the free space in a track. 
 
 - **Align** - The alignment of the widget to the parent.
 
@@ -103,8 +103,8 @@ You can create a custom style to each state.
 
 Style Properties are the parameters to be set for the styles.
 
-[**Styles**](https://docs.squareline.io/docs/styles)  - More information on styles in the Styles section
+[**Styles**](/docs/styles)  - More information on styles in the Styles section
 
 ### Event Properties
 
-[**Event**](https://docs.squareline.io/docs/events)  - More information on events in the Event section
+[**Event**](/docs/events)  - More information on events in the Event section

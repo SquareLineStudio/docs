@@ -2,12 +2,12 @@
 
 ## SquareLine Studio are distributed in five different versions
 
-- [**Trial License**](https://docs.squareline.io/docs/introduction/licences#personal-licence)
-- [**Personal License**](https://docs.squareline.io/docs/introduction/licences#personal-license)
-- [**Small Business License**](https://docs.squareline.io/docs/introduction/licences#business-license)
-- [**Business License**](https://docs.squareline.io/docs/introduction/licences#small-business-license)
-- [**Lifetime License**](https://docs.squareline.io/docs/introduction/licences#lifetime-license)
-- [**Enterprise License**](https://docs.squareline.io/docs/introduction/licences#lifetime-license)
+- [**Trial License**](/docs/introduction/licences#personal-licence)
+- [**Personal License**](/docs/introduction/licences#personal-license)
+- [**Small Business License**](/docs/introduction/licences#business-license)
+- [**Business License**](/docs/introduction/licences#small-business-license)
+- [**Lifetime License**](/docs/introduction/licences#lifetime-license)
+- [**Enterprise License**](/docs/introduction/licences#lifetime-license)
 
 ## Offline license
 
@@ -48,6 +48,6 @@ This type of license grants you the use of the Software for every commercial pur
 
 Enterprise License is an option for special agreements in point of software functions, license time limit, numbers of users or an.
 
-You can read more about this in [**Licence Manager**](https://docs.squareline.io/docs/licence_manager) section. Having downloaded the program, a 30-day demo of Business version will be generated to your computer.
+You can read more about this in [**Licence Manager**](/docs/licence_manager) section. Having downloaded the program, a 30-day demo of Business version will be generated to your computer.
 
-You can read more about this in [**30-Days Trial License**](https://docs.squareline.io/docs/licence_manager#30-day-trial-version) section.
+You can read more about this in [**30-Days Trial License**](/docs/licence_manager#30-day-trial-version) section.

@@ -2,7 +2,7 @@
 
 ## Create a New Project
 
-The first step is to create a new SquareLine Studio project. For further information, please check [**Getting Started**](https://docs.squareline.io/docs/introduction/getting_started) section. At this moment you can create only a simulator project.  Using the simulator project, you can create a platform independent application. (In the later versions various development boards will be supported.) You have nothing to do but
+The first step is to create a new SquareLine Studio project. For further information, please check [**Getting Started**](/docs/introduction/getting_started) section. At this moment you can create only a simulator project.  Using the simulator project, you can create a platform independent application. (In the later versions various development boards will be supported.) You have nothing to do but
 
 - give a name to your project
 - select its location
@@ -12,15 +12,15 @@ By doing this, a new blank screen will be created automatically. Besides a new f
 
 ## Create and Organize Screen Content
 
-Images, created in Photoshop or any other designer software, should be copied into the `Assets` folder of the project. Fonts, needed by the project, should be placed into the `Asset/Font` folder. These images and fonts will be appeared in the [**Assets Panel**](https://docs.squareline.io/docs/dev_env/assetes).
+Images, created in Photoshop or any other designer software, should be copied into the `Assets` folder of the project. Fonts, needed by the project, should be placed into the `Asset/Font` folder. These images and fonts will be appeared in the [**Assets Panel**](/docs/dev_env/assetes).
 
 ## Create Widgets and Events on the Screen
 
-You can find widgets (e.g. button, label, image, etc.) in the [**Widgets Panel**](https://docs.squareline.io/docs/dev_env/widgets). To add these widgets to the screen you should click on the icon of the widget or simply drag it onto the screen. If a widget is selected, you can add events to it at the bottom of the [**Inspector Panel**](https://docs.squareline.io/docs/dev_env/inspector) to create interactions or play an animation.
+You can find widgets (e.g. button, label, image, etc.) in the [**Widgets Panel**](/docs/dev_env/widget). To add these widgets to the screen you should click on the icon of the widget or simply drag it onto the screen. If a widget is selected, you can add events to it at the bottom of the [**Inspector Panel**](/docs/dev_env/inspector) to create interactions or play an animation.
 
 ## Simulate and Export Your Project
 
-Uniquely, you can test your working project directly in the SquareLine Studio in a blink of an eye. Using the `Play` button in the top-right hand corner of the [**Screen area view**](https://docs.squareline.io/docs/layout#editable-view), you can start the simulation of your project. In "Play mode", you have the opportunity to refine the settings of the widgets, including the parameters of styles and animations connected to them.
+Uniquely, you can test your working project directly in the SquareLine Studio in a blink of an eye. Using the `Play` button in the top-right hand corner of the [**Screen area view**](/docs/layout#editable-view), you can start the simulation of your project. In "Play mode", you have the opportunity to refine the settings of the widgets, including the parameters of styles and animations connected to them.
 
 ## Export a project
 

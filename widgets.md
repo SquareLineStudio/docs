@@ -6,7 +6,7 @@ title: Widget types
 
 ## Screen
 
-Screen is the main object. It defines the resolution of the work space and widgets can be added here. You can create several screens to your project. To switch among screens, you should use [**Screen Change**](https://docs.squareline.io/docs/events#change-screen) event.
+Screen is the main object. It defines the resolution of the work space and widgets can be added here. You can create several screens to your project. To switch among screens, you should use [**Screen Change**](/docs/events#change-screen) event.
 
 ***Style part***
 

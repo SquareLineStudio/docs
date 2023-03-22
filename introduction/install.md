@@ -23,7 +23,7 @@ Downloading SquareLine Studio from https://squareline.io/downloads
 
 You should download and start SquareLine_Studio_Setup.exe file. Follow the instructions to complete the installation process.
 
-![](https://docs.squareline.io/img/slsetup.jpg)
+![](/img/slsetup.jpg)
 
 Having installed the program, you should launch SquareLine_Studio.exe file and you can start working.
 

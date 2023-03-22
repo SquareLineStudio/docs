@@ -12,8 +12,12 @@ If you find any issues with SquareLine Studio check out the list below if there 
 
 ## Halts during exporting the files on MacOS
 
-If you are using Mac M1 be sure to run SquareLine Studio with Rosetta as described [here](https://docs.squareline.io/docs/introduction/install#macos).
+If you are using Mac M1 be sure to run SquareLine Studio with Rosetta as described [here](/docs/introduction/install#macos).
 
 ## Not starting or has high CPU usage on Windows
 
 Try starting SquareLine Studio from command line as `SquareLine_Studio.exe -force-opengl`
+
+## Texts are too small on a high DPI monitor
+
+You can set the UI scale in the File -> Preferences menu.

@@ -55,6 +55,13 @@ The **Detach** button convert a component instance back to normal widgets. After
 
 It's possible to add local changes to the component or its children. On the inspector panel the a checkbox appears before the relates parameters. By pressing that checkbox a purple pipe will be shown and the parameter filed after it becomes actives. It indicates that the parameter will overwrite the value comping from the component.
 
+## Remove components from editor
+
+There are two ways of removing the components:
+
+1. Delete them from the component folder in the project folder.
+2. Click the X button at the corner of the component on the widgets panel. It will also delete the component file. 
+
 ## Export files
 
 When exporting code `ui_comp.c`, `ui_comp.h` for C, or `ui_comp.py` for MicroPython  will be created containing the component related code.
@@ -72,3 +79,7 @@ To access the children of the components use
 - In Micropython: `child = ui_comp_get_child(component_obj, "<CHILD_NAME>")`
 
 To see the list of the actual children names see `ui_comp.h` or `ui_comp.py`.
+
+## Component create hook
+
+A hook is called at the end of each component create function allowing to add custom features. The hooks can be found in "ui_comp_hook.c".

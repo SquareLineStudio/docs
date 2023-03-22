@@ -2,6 +2,57 @@
 title: Changelog
 ---
 
+## Version 1.2.2
+
+Release date: 20 Mar 2023
+
+### New features
+
+- Use multiple cores during exporting
+- Include ui_comp.h in ui.h
+- Add a hook for component creation
+- Initial actions on startup 
+- Allow deleting components from the editor
+- Image frame animation
+- Add lv_events.h even if the "Call function" events are not exported 
+- Allow editing flex properties in components
+
+### Bugfixes
+
+- Fixing bugs related to components
+- Fix the list when right clicking on a widget on a  screen
+- Add extern "C" {} to ui_comp.h  
+- Add scrollbar style to the panel widget
+- Make rendering faster
+- Fix disappearing style properties on the screens 
+- Fix dropdown styles if they are components
+
+## Version 1.2.1
+
+Release date: 10 Feb 2023
+
+### New features
+
+- 2x timer faster project loading
+- Smaller project file size
+- Formatted (uncompressed) project file format (JSON)
+- Rectangle and round display options- allow adjusting the layouts parameters in components
+- Export the UI files too when the a template project is generated
+- Save the editor version in the project files 
+- Save widget selection in history
+- Smart Watch example project
+
+### Bugfixes
+
+- Fix the missing scrollbar on the main area
+- Download missing boards if the project was imported (and not created)
+- Fix that the widgets couldn't be unlocked after opening the project again
+- Fix the reverse widgets order in components during save/reload
+- Fix naming issues during component duplication
+- Fix exception when moving a component's child
+- Fix renaming fonts in components
+- Fix file names in "Save as..." in Linux
+
 ## Version 1.2.0
 
 Release date: 11 Jan 2023

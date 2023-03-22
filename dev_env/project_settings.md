@@ -6,7 +6,7 @@ title: Project settings
 
 There are the settings of your project here.
 
-- **Display properties** - Resolution and color depth settings of the project. Allow rotating and offsetting the screen.
+- **Display properties** - Resolution and color depth settings of the project. Allow rotating and offsetting the screen and eectangle and round display options.
 - **Board Properties** - Select the board, IDE and LVGL version.
 - **File export** - Path where to export the generated UI files, and LVGL include parh.
 - **Force export all images** - Export not only the used images but all images from the assets folder.

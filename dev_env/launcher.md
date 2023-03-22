@@ -16,7 +16,7 @@ At the top menu line you can see the board categories (a.k.a. groups).  In the l
 
 By clicking the **CREATE** button the project will be created. 
 
-Due to the - [**Open Board Platform**](https://docs.squareline.io/docs/obp-description) system new boards can be easily added to SquareLine Studio. Learn more about it here.
+Due to the - [**Open Board Platform**](/docs/obp) system new boards can be easily added to SquareLine Studio. Learn more about it here.
 
 ### Import Project
 
