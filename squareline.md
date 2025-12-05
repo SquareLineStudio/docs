@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # SquareLine Studio 1.5.4 Documentation
 
 Welcome to the official documentation of SquareLine Studio!
